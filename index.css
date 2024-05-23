@@ -37,3 +37,18 @@ body {
         height: 1.5rem !important;
     }
 }
+@media screen and (max-width: 768px) {
+    .buyCard h3 {
+        font-size: 14px;
+    }
+
+    .buyCard h2 {
+        font-size: 14px;
+    }
+
+    .buyCard button {
+        font-size: 15px !important;
+        width: 80% !important;
+        height: 1.7rem !important;
+    }
+}
